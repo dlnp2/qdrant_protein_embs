@@ -162,3 +162,4 @@ cython_debug/
 
 *.h5
 wget-log
+qdrant_storage

@@ -2,7 +2,7 @@
 [Qdrant](https://qdrant.tech/) is a vector database implemented in Rust for robust and scalable nearest neighbour search. In this playground, we take a look into the technology by registering and searching protein embeddings pre-calculated using [ProtT5](https://github.com/agemagician/ProtTrans) published on UniProt.
 
 ## Developmental environment
-- Ubuntu 18.04.6 LTS (Bionic Beaver)
+- MacBook Air with M2 chip
 - Docker version 24.0.2, build cb74dfc
 - Python 3.10.11
 - Qdrant server image v1.2.2
